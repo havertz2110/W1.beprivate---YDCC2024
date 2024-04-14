@@ -1,0 +1,5 @@
+Khalid, Abdul Rehman, et al. "Enhancing credit card fraud detection: an ensemble machine learning approach." Big Data and Cognitive Computing 8.1 (2024): 6.
+Al-Sayyed, Rizik, et al. "Mobile money fraud detection using data analysis and visualization techniques." Multimedia Tools and Applications 83.6 (2024): 17093-17108.
+
+
+
